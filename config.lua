@@ -6,7 +6,7 @@ local config = {}
 config.GENERAL = {
    ENABLE_FEATURE_1 = true,
    ENABLE_FEATURE_2 = true,
-   ENABLE_FEATURE_3 = false
+   ENABLE_FEATURE_3 = true
 }
 
 
