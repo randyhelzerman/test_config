@@ -3,9 +3,9 @@ local config = {}
 
 -- Example config file
 
-GENERAL = {
+config.GENERAL = {
    ENABLE_FEATURE_1 = true,
-   ENABLE_FEATURE_2 = false,
+   ENABLE_FEATURE_2 = true,
    ENABLE_FEATURE_3 = false
 }
 
